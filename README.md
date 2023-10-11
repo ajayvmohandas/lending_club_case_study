@@ -26,10 +26,13 @@
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Given the correlation between lower loan grades (Grades D - G) and higher chances of default, Lending Club should continue to refine its risk assessment and grading system.  Also, since lower loan grades (Grades D-G) have higher chance of default, they should scrutinize these loans more.
+- Lending Club could consider imposing limits on the loan amount for certain high-risk loan purposes, especially for small businesses and credit card-related loans.
+- Lending Club should closely monitor and manage loan portfolios related to small businesses, credit card purposes, and other high-default groups. 
+- Since 60-month loan terms have a higher rate of default, Lending Club might want to review the feasibility of extending such long-term loans, especially to borrowers with a history of financial instability.
+- Given that a significant number of loans are extended to borrowers with annual incomes below 100k, Lending Club should have improve its income verification processes
+- Public Derogatory Records should be checked to see if people have some -ve records.  Moderate number of records (1-2), seems to significantly increase the chance of default.  Exercise caution when lending to such borrowers.
+
 
 
 ## Project Members
