@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+Understanding risk of default for a given loan is important for most financial institutions, especially banks and lending clubs.  This project strives to understand the loan data and identify mechanisms to reduce risk for future loans
 
 
 ## Table of Contents
@@ -43,3 +43,6 @@ The following project members contributed to this:
 
 - [harish-babu](https://github.com/harish-babu)
 - [ajayvmohandas](https://github.com/ajayvmohandas)
+
+
+Developed as part of the Exloratory Data Analysis Module required for Executive PG Programme in Machine Learning - IIIT,Bangalore.
