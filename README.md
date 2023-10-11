@@ -9,20 +9,23 @@
 * [Project Members](#project-members)
 
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+The most significant contributor to financial loss for lenders is the act of granting loans to applicants deemed 'risky,' which results in what is known as credit loss. Credit loss represents the monetary value that lenders lose when borrowers either fail to repay their loans or abscond with the owed funds.  T
+
+The primary goal is to have the capability to recognize these high-risk loan applicants as accurately as possible. By achieving this, it becomes possible to decrease the number of such loans, ultimately reducing the total credit loss. 
+
+The case study primarily emphasizes Exploratory Data Analysis (EDA) with the objective of identifying the key parameters that significantly influence the prediction of whether a customer will default on a loan. The data set used is from Lending Club for past loans and various parameters of those loans, including their final settlement (Paid vs Defaulted).  A presentation was created to visually illustrate the crucial factors to take into account when granting loans, including their respective data distributions.  Finally, recommendations are made to Lending Club to prevent future defaults. 
 
 
 ## Technologies Used
+- Anaconda - For package management
+- Jupyter Notebook & Lab - For interactive python notebooks
 - NumPy - For data processing
 - Pandas - For data processing
 - MatPlotLib - For visualization
 - Seaborn - For visualization
+- Github & Google Meet - For collaboration
+- Google Slides - For presentation creation
 
 
 ## Conclusions
