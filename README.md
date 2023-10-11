@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 Understanding risk of default for a given loan is important for most financial institutions, especially banks and lending clubs.  This project strives to understand the loan data and identify mechanisms to reduce risk for future loans
 
 
