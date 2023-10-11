@@ -43,8 +43,8 @@ Give credit here.
 
 ## Project Members
 Created by [@githubusername] - feel free to contact me!
-@harish-babu
-@ajayvmohandas
+- [harish-babu](https://github.com/harish-babu)
+- [ajayvmohandas](https://github.com/ajayvmohandas)
 
 
 <!-- Optional -->
