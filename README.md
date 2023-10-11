@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+Understanding risk of default for a given loan is important for most financial institutions, especially banks and lending clubs.  This project strives to understand the loan data and identify mechanisms to reduce risk for future loans
 
 
 ## Table of Contents
@@ -10,7 +10,7 @@
 
 
 ## General Information
-The most significant contributor to financial loss for lenders is the act of granting loans to applicants deemed 'risky,' which results in what is known as credit loss. Credit loss represents the monetary value that lenders lose when borrowers either fail to repay their loans or abscond with the owed funds.  T
+The most significant contributor to financial loss for lenders is the act of granting loans to applicants deemed 'risky,' which results in what is known as credit loss. Credit loss represents the monetary value that lenders lose when borrowers either fail to repay their loans or abscond with the owed funds.
 
 The primary goal is to have the capability to recognize these high-risk loan applicants as accurately as possible. By achieving this, it becomes possible to decrease the number of such loans, ultimately reducing the total credit loss. 
 
@@ -43,3 +43,6 @@ The following project members contributed to this:
 
 - [harish-babu](https://github.com/harish-babu)
 - [ajayvmohandas](https://github.com/ajayvmohandas)
+
+
+Developed as part of the Exloratory Data Analysis Module required for Executive PG Programme in Machine Learning - IIIT,Bangalore.
