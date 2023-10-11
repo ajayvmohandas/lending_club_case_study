@@ -41,8 +41,10 @@ Give credit here.
 - This project was based on [this tutorial](https://www.example.com).
 
 
-## Contact
+## Project Members
 Created by [@githubusername] - feel free to contact me!
+@harish-babu
+@ajayvmohandas
 
 
 <!-- Optional -->
