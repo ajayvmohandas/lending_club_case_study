@@ -6,47 +6,40 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Project Members](#project-members)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+The most significant contributor to financial loss for lenders is the act of granting loans to applicants deemed 'risky,' which results in what is known as credit loss. Credit loss represents the monetary value that lenders lose when borrowers either fail to repay their loans or abscond with the owed funds.  T
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The primary goal is to have the capability to recognize these high-risk loan applicants as accurately as possible. By achieving this, it becomes possible to decrease the number of such loans, ultimately reducing the total credit loss. 
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The case study primarily emphasizes Exploratory Data Analysis (EDA) with the objective of identifying the key parameters that significantly influence the prediction of whether a customer will default on a loan. The data set used is from Lending Club for past loans and various parameters of those loans, including their final settlement (Paid vs Defaulted).  A presentation was created to visually illustrate the crucial factors to take into account when granting loans, including their respective data distributions.  Finally, recommendations are made to Lending Club to prevent future defaults. 
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Anaconda - For package management
+- Jupyter Notebook & Lab - For interactive python notebooks
+- NumPy - For data processing
+- Pandas - For data processing
+- MatPlotLib - For visualization
+- Seaborn - For visualization
+- Github & Google Meet - For collaboration
+- Google Slides - For presentation creation
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+## Conclusions
+- Given the correlation between lower loan grades (Grades D - G) and higher chances of default, Lending Club should continue to refine its risk assessment and grading system.  Also, since lower loan grades (Grades D-G) have higher chance of default, they should scrutinize these loans more.
+- Lending Club could consider imposing limits on the loan amount for certain high-risk loan purposes, especially for small businesses and credit card-related loans.
+- Lending Club should closely monitor and manage loan portfolios related to small businesses, credit card purposes, and other high-default groups. 
+- Since 60-month loan terms have a higher rate of default, Lending Club might want to review the feasibility of extending such long-term loans, especially to borrowers with a history of financial instability.
+- Given that a significant number of loans are extended to borrowers with annual incomes below 100k, Lending Club should have improve its income verification processes
+- Public Derogatory Records should be checked to see if people have some -ve records.  Moderate number of records (1-2), seems to significantly increase the chance of default.  Exercise caution when lending to such borrowers.
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## Project Members
+The following project members contributed to this:
+
+- [harish-babu](https://github.com/harish-babu)
+- [ajayvmohandas](https://github.com/ajayvmohandas)
