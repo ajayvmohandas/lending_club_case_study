@@ -10,7 +10,7 @@ Understanding risk of default for a given loan is important for most financial i
 
 
 ## General Information
-The most significant contributor to financial loss for lenders is the act of granting loans to applicants deemed 'risky,' which results in what is known as credit loss. Credit loss represents the monetary value that lenders lose when borrowers either fail to repay their loans or abscond with the owed funds.  T
+The most significant contributor to financial loss for lenders is the act of granting loans to applicants deemed 'risky,' which results in what is known as credit loss. Credit loss represents the monetary value that lenders lose when borrowers either fail to repay their loans or abscond with the owed funds.
 
 The primary goal is to have the capability to recognize these high-risk loan applicants as accurately as possible. By achieving this, it becomes possible to decrease the number of such loans, ultimately reducing the total credit loss. 
 
